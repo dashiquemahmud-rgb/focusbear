@@ -1,0 +1,7 @@
+Based on their official websites, I see Focus Bear’s main strength as combining distraction blocking, guided routines and movement breaks in one app. I would choose it if I wanted support with both focused work and daily habits. [Focus Bear](https://www.focusbear.io/)
+
+However, competitors may suit different needs better. Freedom emphasises synchronised blocking across devices, while Cold Turkey focuses on strict desktop blocking and offers a one-time purchase. Tiimo centres on visual planning, while Routinery emphasises timed routines and habit sequences. These are advertised capabilities, rather than results from my own comparative testing. [Freedom](https://freedom.to/), [Cold Turkey](https://getcoldturkey.com/), [Tiimo](https://www.tiimoapp.com/), [Routinery](https://www.routinery.app/)
+
+One potential feature gap is Tiimo’s AI co-planner, which turns typed or spoken thoughts into scheduled steps with time estimates. I could not verify an equivalent feature in Focus Bear’s reviewed materials, so I would confirm this before calling it absent. [Tiimo](https://www.tiimoapp.com/)
+
+My priority improvement would be clearer cross-device session status. In my earlier test, an iOS session did not appear in Windows. A visible status indicator and troubleshooting guidance would reduce uncertainty. This observation needs further testing; it does not establish that cross-device blocking is unavailable.
