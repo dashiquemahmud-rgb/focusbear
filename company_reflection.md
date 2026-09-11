@@ -1,4 +1,4 @@
-Focus Bear appears to have been created because its founder’s experience with ADHD and autism highlighted the need for tools that support how people actually work. It combines distraction blocking, guided routines and movement breaks to help users start tasks and maintain structure. Focus Bear
+Focus Bear appears to have been created because its founder’s experience with ADHD and autism highlighted the need for tools that support how people actually work. It combines distraction blocking, guided routines and movement breaks to help users start tasks and maintain structure.
 
 For me, the mission connects with balancing my MBA studies, retail responsibilities and internship. These commitments require planning and switching between different tasks. I can see how structured routines and protected study time could help someone manage competing responsibilities.
 
