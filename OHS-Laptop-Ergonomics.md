@@ -1,0 +1,5 @@
+I can improve my workspace by purchasing a laptop stand. I can also use an external keyboard and mouse. This will allow me to raise the screen without placing my wrists in an uncomfortable position. I can also adjust my chair so that my lower back is supported and my feet remain flat on the floor. If the chair is too high, I can use a footrest. For longer work sessions, an external monitor would provide a larger and more adjustable display.
+
+My behavioural changes are important. I will sit with my back supported, keep my shoulders relaxed, and avoid leaning toward the screen. I will take a short break at least every 30–45 minutes and use longer breaks to walk or stretch. I will also apply the 20-20-20 approach and change tasks when possible.
+
+To make these habits consistent, I can use Focus Bear to schedule movement breaks, stretching sessions, and posture checks. I can also place a small reminder near my monitor and create recurring alerts on my computer. These prompts will help me correct my posture before discomfort develops and make safe desk-based work part of my normal routine.
